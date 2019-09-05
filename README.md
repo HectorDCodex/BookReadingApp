@@ -1,1 +1,1 @@
-Working on a Book Reading App where there is going to be the ability to search books for reading
+Working on a Book Reading App where there is going to be the ability to list books for reading.
